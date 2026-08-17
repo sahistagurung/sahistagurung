@@ -46,6 +46,11 @@ I'm open to projects that combine:
 - Creativity + Problem Solving
 
 ---
+ 
+### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahistagurung&theme=dark&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316)
+ 
+---
 
 ### 📫 Connect With Me
 - 💌 Email: sahistagurung@gmail.com
