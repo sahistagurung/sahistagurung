@@ -1,53 +1,57 @@
 ## Hi there 👋 I'm Sahista Gurung
-
-🎨 Artist | 💻 Tech Enthusiast | 🤖 AI Explorer  
-
----
-
-### 🌄 About Me
-I’m an artist based in Kathmandu, Nepal, inspired by Himalayan landscapes, spiritual architecture, and nature. My work blends traditional aesthetics with modern digital creativity.
-
-Beyond art, I’m deeply interested in **AI and Web Development**, where I see code as another medium for creative expression and innovation.
+🤖 AI & ML Explorer | 💻 Web Developer | 🎨 Artist
 
 ---
 
-### 🎨 My Creative Work
-- ✏️ Graphite wildlife studies  
-- 🎨 Acrylic landscapes  
-- 🌿 Nature-inspired textured art  
-- 🖼️ Portfolio: **Sahista Gurung Art**
+### 🚀 About Me
+I'm based in Kathmandu, Nepal, and I'm deeply passionate about **Artificial Intelligence, Machine Learning, and Web Development**. I love exploring how AI tools and models can be applied to build smarter, more creative, and more human digital experiences.
+
+I also bring an artist's background to my tech work — years spent studying landscapes, form, and texture translate into an eye for design and visual storytelling that shapes how I build and think about products.
 
 ---
 
 ### 💡 Interests
-- 🤖 Artificial Intelligence  
-- 🌐 Web Development  
-- 🎨 Digital + Traditional Art Fusion  
-- 🧠 Creative Coding  
-- 📊 Data & Visual Storytelling  
+
+**AI & ML**
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 AI tools for creative and product workflows
+- 📊 Data & Visual Storytelling
+- 🛠️ Applied AI experimentation
+
+**Tech & Development**
+- 🌐 Web Development
+- 🧑‍💻 Creative Coding
+- 🎯 AI Product Management (in progress)
+
+**Art (background & influence)**
+- 🎨 Digital + Traditional Art Fusion
+- ✏️ Graphite wildlife studies, acrylic landscapes, mural painting
+- 🖼️ Portfolio: **[Sahista Gurung Art](https://sahistagurung.github.io/sahistagurungart.github.io/)**
 
 ---
 
 ### 🚀 What I'm Working On
-- Exploring AI tools for creative projects  
-- Building visually engaging web experiences  
-- Experimenting with combining art + technology  
+- Exploring AI/ML tools and frameworks for real-world applications
+- Building visually engaging, AI-powered web experiences
+- Growing toward a career in AI Product Management
+- Experimenting with combining AI + design thinking
 
 ---
 
 ### 🤝 Let's Collaborate
-I’m open to projects that combine:
-- Design + Development  
-- Art + Technology  
-- Creativity + Problem Solving  
+I'm open to projects that combine:
+- AI/ML + Product Development
+- Design + Development
+- Data & Visual Storytelling
+- Creativity + Problem Solving
 
 ---
 
 ### 📫 Connect With Me
-- 💌 Email: sahistagurung@gmail.com  
-- 🌐 Portfolio: https://sahistagurung.github.io/sahistagurungart.github.io/
+- 💌 Email: sahistagurung@gmail.com
+- 🌐 Portfolio: [sahistagurung.github.io](https://sahistagurung.github.io/sahistagurungart.github.io/)
 
 ---
 
 ### ⚡ Fun Fact
-I see **painting and coding as the same process**—both start with a blank canvas and turn into something meaningful ✨
+I see **AI, code, and art as the same process**—each starts with a blank canvas and turns into something meaningful ✨
