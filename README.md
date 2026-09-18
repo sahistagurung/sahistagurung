@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sahista Gurung
 
-🤖 **AI & ML Enthusiast** | 💻 **Web Developer** | 🎯 **Aspiring AI Product Manager**
+🤖 **AI & ML Enthusiast** | 🎯 **Aspiring AI Product Manager**
 
 ---
 
