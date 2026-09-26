@@ -82,7 +82,7 @@ Digital + traditional art (graphite, acrylic, experimental media). Helps me thin
 ## 📫 Get in Touch
 
 - 💌 Email: sahistagurung@gmail.com
-- 🌐 Portfolio: [sahistagurung.github.io](https://sahistagurung.github.io/)
+- 🌐 Portfolio: [sahistagurung.github.io](https://sahista2gurung.myportfolio.com/home)
 - 💼 Let's talk: AI products, PM frameworks, or interesting ML projects
 
 ---
